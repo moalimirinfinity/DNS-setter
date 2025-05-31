@@ -1,6 +1,4 @@
-# DNS-setter
-
-## Set DNS for macOS Wi-Fi
+# Set DNS for macOS Wi-Fi
 
 This simple script sets custom DNS servers for the active Wi-Fi connection on macOS.
 
